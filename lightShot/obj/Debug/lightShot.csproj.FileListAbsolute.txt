@@ -1,0 +1,7 @@
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\bin\Debug\lightShot.exe.config
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\bin\Debug\lightShot.exe
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\bin\Debug\lightShot.pdb
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\obj\Debug\lightShot.csprojAssemblyReference.cache
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\obj\Debug\lightShot.csproj.CoreCompileInputs.cache
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\obj\Debug\lightShot.exe
+C:\Users\alexa\YandexDisk\Projects\C#\lightShot\lightShot\obj\Debug\lightShot.pdb
